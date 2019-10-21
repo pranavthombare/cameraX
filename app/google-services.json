@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "197220023161",
+    "firebase_url": "https://camerax-914ea.firebaseio.com",
+    "project_id": "camerax-914ea",
+    "storage_bucket": "camerax-914ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197220023161:android:45018503ae8319f99d0da8",
+        "android_client_info": {
+          "package_name": "com.legendrom.m"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197220023161-qp6snvq1748nlvud8d821q4nt47q25e9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.legendrom.m",
+            "certificate_hash": "0c316d87ccf061a5cf268770fc341b7fd44ee4fb"
+          }
+        },
+        {
+          "client_id": "197220023161-7l5uidob0tspiupsbkavmf6fbq4ue8f2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD26-PXZ4Ngp336t7gOF2IpFxXosKdu_5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197220023161-7l5uidob0tspiupsbkavmf6fbq4ue8f2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
